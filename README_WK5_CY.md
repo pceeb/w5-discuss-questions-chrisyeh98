@@ -16,3 +16,12 @@ At the moment, the only tools I believe we will need is R studio that has the sh
 6. What is your biggest concern regarding your project? (a few sentences max). <br> 
 The biggest concern is learning how to code shinyApps specifically in R as we have not learned how to do it and what language is required. The next biggest concern would be learning exactly how to display our shinyApp output onto a website that is accessible to all and fits our goals. <br>
 
+## Grade Discussion 5 (week5): 20/20 Nice work!!! :thumbsup:
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Questions | **X** | | | |
+| Project README.md | **X** | | | |
+| Challenges - Timely Submission | **X** | | | |
+
